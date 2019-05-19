@@ -1,5 +1,5 @@
 # CrawlBaiduStockInfo
-一种从百度股票网站上爬取当日股票信息，并保存到本地以及通过股票发送的方法。
+一种从百度股票网站上爬取当日股票信息，并保存到本地以及通过email发送的方法。
 
 ## 如何使用
 使用Linux的终端运行<code>**CrawBaiduStock.sh**</code>，结果保存在<code>./Cache/</code>和<code>./Backup/</code>目录下，
