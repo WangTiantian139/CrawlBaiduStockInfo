@@ -1,0 +1,5 @@
+sendgrid.env
+Cache/*
+Backup/*
+Crawler*.log
+
